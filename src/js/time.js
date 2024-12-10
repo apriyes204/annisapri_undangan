@@ -23,8 +23,8 @@ export const time = () => {
     //     <p>${info} ${alamat.lokasi}</p>
     //     `);
 
-    marriageDiv.innerHTML = createTimeListItem('Akad', data.time.marriage);
-    receptionDiv.innerHTML = createTimeListItem('Tasyakuran', data.time.reception);
+    //marriageDiv.innerHTML = createTimeListItem('Akad', data.time.marriage);
+    //receptionDiv.innerHTML = createTimeListItem('Tasyakuran', data.time.reception);
 
     // alamatParagraph.textContent = data.time.tempat;
 
